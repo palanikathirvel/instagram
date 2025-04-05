@@ -1,0 +1,365 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Palani Kathirvel",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 101,
+        "username": "Kathirvel",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 101,
+        "username": "Palani kathirvel",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 101,
+        "username": "Kathirvel",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "./src/assets/nature.jpg",
+      "caption": "Beautiful sunset nature",
+      "Like": 120,
+      "comments": [
+        {
+          "user": "alice",
+          "comment": "wow amazing"
+        },
+        {
+          "user": "palani",
+          "comment": "where is this place"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "palani kathirvel",
+    "profilepic": "./src/assets/png-clipart-inPstagram-logo-icon-others-text-photography.png"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "102",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "103",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "105",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "106",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "107",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "108",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "109",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "110",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "111",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "112",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "113",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "114",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "115",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Palani Kathirvel",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 101,
+        "username": "Kathirvel",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 101,
+        "username": "Palani kathirvel",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 101,
+        "username": "Kathirvel",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+      },
+      "image": "/src/assets/naturepng.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "102",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    },
+    {
+      "id": "103",
+      "username": "palani",
+      "profilepic": "./src/assets/png-clipart-instagram-logo-icon-others-text-photography.png"
+    }
+  ]
+}
